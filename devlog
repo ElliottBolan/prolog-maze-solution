@@ -1,17 +1,23 @@
-10:29PM 5/11
+-Initial 10:29PM 5/11
 I had a very late start on this project due to a huge database project being due the same night.
 
-3:17AM 5/12
+Start 3:17AM 5/12
 I will try to get a few necessary functions finished this session.
 
-4:00AM 5/12
+End 4:00AM 5/12
 I accomplished my goal, the nth0 function was very useful.
 finished getCell, findStart, countCells, and mazeContains
 
-6:13PM 5/12
+Start 6:13PM 5/12
 This session I will try and get the function to find the exit started and whatever other necessary functions I will need.
 
-7:47PM 5/12
+End 7:47PM 5/12
 I have accomplished part of my goal, but I have some more things to add before I am done.
 Added selects for the up down left and right actions, and applies for them
 Made functions isValidMove, and findPath.
+
+Start 8:51PM 5/12
+I aim to complete the project in this session, by implementing a findPath function, and whatever else I need.
+
+end 11:01PM 5/12
+I accomplished what I set out to do and I finished the project, and added functions to run examples.
